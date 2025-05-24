@@ -55,3 +55,8 @@ This is a **self-contained LaTeX project** — no need for an external `.bib` fi
 🌀 Quote
 "Consciousness does not merely witness reality — it reshapes it, looping time through meaning."
 — Rishika Rai
+
+![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
+![Build LaTeX](https://img.shields.io/badge/latex-ready-brightgreen)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+

@@ -52,12 +52,9 @@ This paper explores the nonlinear nature of time through the lenses of Eastern a
 
 This is a **self-contained LaTeX project** — no need for an external `.bib` file.
 
-### 📦 Requirements
-
-- `pdflatex`
-- `biber`
-
-### 🧾 Steps (Local)
+🌀 Quote
+"Consciousness does not merely witness reality — it reshapes it, looping time through meaning."
+— Rishika Rai
 
 ```bash
 pdflatex main.tex

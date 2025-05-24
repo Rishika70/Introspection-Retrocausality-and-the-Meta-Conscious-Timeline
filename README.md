@@ -55,9 +55,3 @@ This is a **self-contained LaTeX project** — no need for an external `.bib` fi
 🌀 Quote
 "Consciousness does not merely witness reality — it reshapes it, looping time through meaning."
 — Rishika Rai
-
-```bash
-pdflatex main.tex
-biber main
-pdflatex main.tex
-pdflatex main.tex

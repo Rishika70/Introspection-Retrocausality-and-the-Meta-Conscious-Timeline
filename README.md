@@ -1,4 +1,4 @@
-# 🧠⏳ The Introspective-Causal Loop: A Participatory Model of Consciousness and Time
+# 🧠⏳ Introspection-Retrocausality-and-the-Meta-Conscious-Timeline
 
 This repository contains the LaTeX source and supporting materials for our interdisciplinary research manuscript exploring the intersections of neuroscience, quantum theory, consciousness, and metaphysics through the lens of time perception and retrocausality.
 
